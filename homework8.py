@@ -11,3 +11,4 @@ while my_list[a] >= 0 and a < 13:
         continue
     else:
         break
+        #eajfrvear
